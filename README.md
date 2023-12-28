@@ -1,16 +1,16 @@
 # OIBSIP - OASIS Infobyte Internship 
 
-# Task - 1 (Voice Assistant)
+# Task - 1 (Wheather App)
 
-Create a basic voice assistant that can perform simple tasks based on voice commands. Implement features like responding to "Hello" and providing predefined responses, telling the time or date, and searching the web or information based on user queries.
+Create a command-line weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API. Show basic information such as temperature, humidity, and weather conditions.
 
 # Key Concepts and Challenges:
 
-1. Speech Recognition: Learn how to recognize and process voice commands using speech recognition libraries or APIs.
-2. User Interaction: Create a user-friendly interaction design that allows users to communicate with the assistant via voice commands.
-3. Error Handling: Handle potential issues with voice recognition, network requests, or task execution.
+1.API Integration: Connect to a weather API and parse JSON data.
+2.User Input Handling: Validate and process user input for location.
+3.GUI Design (for Advanced): Create a user-friendly interface with input fields, weather data displays, and visual elements.
 
-![image](https://github.com/harshgithup/OIBSIP/assets/116560172/08929844-4d46-4f4d-bacf-e60a43226225)
+https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/WeatherApp.py
 
 
 # Task - 2 (BMI Calculator)
@@ -24,7 +24,7 @@ Create a command-line BMI calculator in Python. Prompt users for their weight (i
 3. Categorization: Classify BMI values into health categories based on predefined ranges.
 4. GUI Design (for Advanced): Create an intuitive interface with labels, input fields, and result displays. 
 
-![image](https://github.com/harshgithup/OIBSIP/assets/116560172/f1e2a430-2d4b-4810-a679-e85bd6cec1e1)
+https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/BMI_Calculator.py
 
 
 # Task - 3 (Random Password Generator)
@@ -37,5 +37,4 @@ Create a command-line password generator in Python that generates random passwor
 2. User Input Validation: Validate user input for password length and character types.
 3. Character Set Handling: Manage different character sets (letters, numbers, symbols).
 
-
-![image](https://github.com/harshgithup/OIBSIP/assets/116560172/7c7848bb-d72f-43c8-bbfb-14b6ae4eefc3)
+https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/Random%20_Password_Genrator.py
