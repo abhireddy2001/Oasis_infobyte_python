@@ -1,19 +1,6 @@
 # OIBSIP - OASIS Infobyte Internship 
 
-# Task - 1 (Wheather App)
-
-Create a command-line weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API. Show basic information such as temperature, humidity, and weather conditions.
-
-# Key Concepts and Challenges:
-
-1.API Integration: Connect to a weather API and parse JSON data.
-2.User Input Handling: Validate and process user input for location.
-3.GUI Design (for Advanced): Create a user-friendly interface with input fields, weather data displays, and visual elements.
-
-https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/WeatherApp.py
-
-
-# Task - 2 (BMI Calculator)
+# Task - 1 (BMI Calculator)
 
 Create a command-line BMI calculator in Python. Prompt users for their weight (in kilograms) and height (in meters). Calculate the BMI and classify it into categories (e.g., underweight, normal, overweight) based on predefined ranges. Display the BMI result and category to the user.
 
@@ -27,7 +14,7 @@ Create a command-line BMI calculator in Python. Prompt users for their weight (i
 https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/BMI_Calculator.py
 
 
-# Task - 3 (Random Password Generator)
+# Task - 2 (Random Password Generator)
 
 Create a command-line password generator in Python that generates random passwords based on user-defined criteria, such as length and character types (letters, numbers, symbols). Allow users to specify password length and character set preferences.
 
@@ -38,3 +25,15 @@ Create a command-line password generator in Python that generates random passwor
 3. Character Set Handling: Manage different character sets (letters, numbers, symbols).
 
 https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/Random%20_Password_Genrator.py
+
+# Task - 3 (Wheather App)
+
+Create a command-line weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API. Show basic information such as temperature, humidity, and weather conditions.
+
+# Key Concepts and Challenges:
+
+1.API Integration: Connect to a weather API and parse JSON data.
+2.User Input Handling: Validate and process user input for location.
+3.GUI Design (for Advanced): Create a user-friendly interface with input fields, weather data displays, and visual elements.
+
+https://github.com/abhireddy2001/Oasis_infobyte_python/blob/main/WeatherApp.py
